@@ -1,7 +1,7 @@
 # War-Game
 Repository for Promineo Tech BE Developer WK 6 Final Java Project. Program simulates a 2 player version of the classic card game War using a standard 52 card deck. Program written in Java using the Eclipse IDE.
 
-## How The Program works
+## How The Program Works
 This game automated, no user input is required. Game only plays 26 rounds. Once cards are played, they are removed from the deck.
 
 A standard deck of 52 cards is dealt so that both players have 26 cards. In war, each card has one of thirteen possible predetermined values starting at two (the lowest value) through Ace (the highest value). Card suits are the traditional Hearts, Diamonds, Clubs & Spades.
